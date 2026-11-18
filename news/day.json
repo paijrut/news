@@ -1,0 +1,90 @@
+{
+  "date": "WEDNESDAY 18 NOVEMBER 2026",
+  "lead": {
+    "kicker": "APEC SHENZHEN",
+    "headline": "Trump, Xi, Putin meet in China: first three-way summit",
+    "dek": "The US president landed for APEC and the first US-China-Russia trilateral talks, after Xi defended free trade and Putin blasted Western sanctions.",
+    "figure": "21",
+    "caption": "economies at APEC; trilateral talks begin"
+  },
+  "stories": [
+    {
+      "kicker": "UKRAINE",
+      "headline": "Kerch Bridge span collapses",
+      "summary": "Ukrainian drones and missiles brought a road span of the 19 km bridge into the strait.",
+      "figure": "19 km",
+      "figure_note": "shipping briefly blocked"
+    },
+    {
+      "kicker": "GULF",
+      "headline": "US and Iran trade strikes",
+      "summary": "US jets hit an IRGC site on Qeshm after Iran's drones were intercepted over Bahrain; Iran answered on Kuwait.",
+      "figure": "3",
+      "figure_note": "Iranian strikes on Bahrain in 5 days"
+    },
+    {
+      "kicker": "WALL STREET",
+      "headline": "Worst slide, then Nvidia beats",
+      "summary": "Hot CPI fueled hike bets: Dow -848. After the bell, Nvidia's revenue doubled.",
+      "figure": "-1.64%",
+      "figure_note": "Dow, fourth straight drop"
+    },
+    {
+      "kicker": "HEALTH",
+      "headline": "US loses measles elimination",
+      "summary": "PAHO declared measles endemic after 12 months of unbroken transmission.",
+      "figure": "5,412",
+      "figure_note": "cases; 10 deaths this year"
+    },
+    {
+      "kicker": "YEMEN",
+      "headline": "Saudi-backed forces launch Houthi offensive",
+      "summary": "The Yemen war front reopened as Saudi-backed troops attacked Houthi positions, a new front beside the US-Iran Gulf strikes.",
+      "figure": "2",
+      "figure_note": "wars open on the Arabian peninsula"
+    },
+    {
+      "kicker": "EUROPE",
+      "headline": "EU offers Ukraine a 45B-euro loan",
+      "summary": "The Commission proposed covering two-thirds of 2027's gap, repaid only if Russia pays.",
+      "figure": "€45B",
+      "figure_note": "on top of €90B agreed"
+    }
+  ],
+  "markets": [
+    {
+      "name": "DOW",
+      "close": "50,759.42",
+      "change": "-1.64%"
+    },
+    {
+      "name": "S&P 500",
+      "close": "7,340.53",
+      "change": "-1.03%"
+    },
+    {
+      "name": "NASDAQ",
+      "close": "24,328.38",
+      "change": "-0.74%"
+    },
+    {
+      "name": "GOLD",
+      "close": "3,786.70",
+      "change": "-2.0%"
+    },
+    {
+      "name": "BITCOIN",
+      "close": "63,400",
+      "change": "-0.8%"
+    }
+  ],
+  "meanwhile": [
+    "Voyager 1: first human object one light-day out",
+    "GTA VI launches tomorrow; billboards go up",
+    "Haiti, El Salvador sign security pact",
+    "Iraq pumps oil to Turkey after 12 years",
+    "Robert Pattinson is the new James Bond",
+    "Slovakia: thousands rally against Fico"
+  ],
+  "source_note": "Reuters, Euronews, El Pais, Kyiv Independent, NPR, RFE/RL, 17-18 Nov 2026"
+}
